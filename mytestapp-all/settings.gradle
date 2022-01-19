@@ -1,0 +1,2 @@
+include 'mytestapp'
+include 'mytestapp-dev'
